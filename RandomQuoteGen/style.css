@@ -1,0 +1,23 @@
+html {
+  background-color:  #8585ad;
+  color: white;
+  text-align: center;
+}
+
+.btn {
+  background-color: #3d3d5c;
+  color: white;
+  border: 2px solid black;
+}
+
+#quoteBox {
+  background-color: #3d3d5c;
+  vertical-align: middle;
+  text-align: center;
+  border: 2px solid black;
+  margin-bottom: .5em;
+}
+
+span {
+  text-decoration: underline;
+}
